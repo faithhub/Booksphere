@@ -1,0 +1,17 @@
+.invalid-feedback {
+    display: block !important;
+    font-size: 12px !important;
+    color: red !important;
+    letter-spacing: 2px;
+}
+
+.error {
+    font-family: cursive;
+    font-size: 14px;
+    font-weight: 400;
+    color: red !important;
+}
+
+.is-invalid {
+    border: 1px solid red !important;
+}
